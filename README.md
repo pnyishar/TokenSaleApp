@@ -108,7 +108,3 @@ For the local Truffle example:
 npm run devchain   # terminal 1
 npm run deploy     # terminal 2
 ```
-
-## License
-
-The Truffle sample is MIT-licensed (see `Truffle/LICENSE`). No license is declared for the rest of the project.
